@@ -6,6 +6,6 @@
   ※[開発中止](https://github.com/u-yas/gomitter-portfolio-discompleted "開発中止")
   
  #### PeSuMi
-  連載型のデジタルノベルをブラウザで投稿、閲覧するプラットフォーム「PeSuMi」を開発しております。
+  連載型のデジタルノベルをブラウザで投稿、閲覧するプラットフォーム「PeSuMi」、デジタルノベルを開発するビジュアルエディタ[「PeSuMi Editor」](https://github.com/u-yas/pesumi-editor)を開発中です（※2021年1月現在)。
  ### 求職
  2021年１月現在、開発系のアルバイトを探しております。下記の[README](https://github.com/u-yas/for-job)をご覧いただき、なにかご興味いただけましたら、以下のメールアドレス(uyas-for-job@protonmail.com)にご連絡お願いいたします。
