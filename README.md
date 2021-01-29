@@ -8,4 +8,4 @@
  #### PeSuMi
   連載型のデジタルノベルをブラウザで投稿、閲覧するプラットフォーム「PeSuMi」を開発しております。
  ### 求職
- -2021年１月現在、開発系のアルバイトを探しております。下記の[README](https://github.com/u-yas/for-job)をご覧いただき、なにかご興味いただけましたら、以下のメールアドレス(uyas-for-job@protonmail.com)にご連絡お願いいたします。
+ 2021年１月現在、開発系のアルバイトを探しております。下記の[README](https://github.com/u-yas/for-job)をご覧いただき、なにかご興味いただけましたら、以下のメールアドレス(uyas-for-job@protonmail.com)にご連絡お願いいたします。
