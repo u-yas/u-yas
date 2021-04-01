@@ -7,6 +7,8 @@
   
  #### PeSuMi
   デジタルノベルをブラウザで投稿、閲覧するプラットフォーム「PeSuMi」、デジタルノベルを開発するビジュアルエディタ[「PeSuMi Editor」](https://github.com/u-yas/pesumi-editor)を開発中です（※2021年2月現在)。
+ #### rotate-twitter-icons
+ firebaseのcloud functionsにある pubsubで一時間ごとにツイッターのアイコンを回します
  ### 求職
  ~~2021年１月現在、開発系のアルバイトを探しております。下記の[README](https://github.com/u-yas/for-job)をご覧いただき、なにかご興味いただけましたら、以下のメールアドレス(uyas-for-job@protonmail.com)にご連絡お願いいたします。~~
  
