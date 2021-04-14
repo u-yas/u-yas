@@ -11,4 +11,3 @@ jobs:
         uses: ervitis/github-profile-summary-cards@draft
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: default
