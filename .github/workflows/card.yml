@@ -4,10 +4,11 @@ on:
     - cron: '* */24 * * *'
   workflow_dispatch:
 jobs:
-  build:
+  Card:
     runs-on: ubuntu-latest
-  uses: ervitis/github-profile-summary-cards@draft
-  with:
-    # GitHub username
-    USERNAME: ${{ github.repository_owner }}
-    THEME: default
+    steps:
+      - name: generate profile card
+        uses: ervitis/github-profile-summary-cards@draft
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: default
