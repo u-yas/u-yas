@@ -1,7 +1,5 @@
 ## 自己紹介
-[![](https://raw.githubusercontent.com/u-yas/u-yas/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/u-yas/u-yas/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/u-yas/u-yas/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ### 個人開発
  #### [gomitter](https://github.com/u-yas/gomitter-portfolio-discompleted)
   Twitter APIを利用したwebアプリ。自分に送られたクソリプを登録する事ができ。他人が登録したクソリプを閲覧・ファボ・共有することができます
